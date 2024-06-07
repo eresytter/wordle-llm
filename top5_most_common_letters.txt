@@ -1,0 +1,39 @@
+Top 5 most common letters for the first position:
+first
+s    1565
+c     922
+b     909
+p     859
+t     815
+
+Top 5 most common letters for the second position:
+second
+a    2263
+o    2096
+e    1628
+i    1383
+u    1187
+
+Top 5 most common letters for the third position:
+third
+a    1236
+r    1198
+i    1051
+o     993
+n     964
+
+Top 5 most common letters for the fourth position:
+fourth
+e    2327
+a    1074
+t     898
+i     880
+n     788
+
+Top 5 most common letters for the fifth position:
+fifth
+s    3958
+e    1522
+y    1301
+d     823
+t     727
