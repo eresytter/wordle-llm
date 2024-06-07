@@ -1,0 +1,64 @@
+Instructions for Wordle:
+Wordle is such a simple game that there are hardly any rules. But here you go:
+You have to guess the Wordle in six goes or less
+Every word you enter must be in the word list. There are more than 10,000 words in this list, but only 2,309 (at the time of writing) are answers to a specific puzzle
+A correct letter in the correct position provides the feedback green
+A correct letter in the wrong position provides the feedback yellow
+An incorrect letter or letter that is not in the word provides the feedback gray
+Letters can be used more than once but you cannot use the same word more than once per game
+Answers are never plurals
+Each guess must be a valid five-letter word.
+The color of a tile will change to show you how close your guess was.
+
+Tips: use words that have different letters to see if they are in the word
+
+Example of a game:
+I: Play Wordle 5 times provide your chain of thought.
+O: Stair.
+I: 'S', 't', 'i', and 'r' are grey, and 'a' is yellow.
+O: Beast.
+I: 'B', 's', and 't' are grey, and 'e' and 'a' are yellow.
+O: Eager.
+I: 'r' and the second 'e' are grey, and 'e', 'a', and 'g' are yellow.
+O: Eagle.
+I: Correct
+
+Top 5 most common letters for the first position:
+first
+s    1565
+c     922
+b     909
+p     859
+t     815
+
+Top 5 most common letters for the second position:
+second
+a    2263
+o    2096
+e    1628
+i    1383
+u    1187
+
+Top 5 most common letters for the third position:
+third
+a    1236
+r    1198
+i    1051
+o     993
+n     964
+
+Top 5 most common letters for the fourth position:
+fourth
+e    2327
+a    1074
+t     898
+i     880
+n     788
+
+Top 5 most common letters for the fifth position:
+fifth
+s    3958
+e    1522
+y    1301
+d     823
+t     727
