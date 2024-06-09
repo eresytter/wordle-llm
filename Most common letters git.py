@@ -12,7 +12,7 @@ os.environ['OPENAI_API_KEY'] = 'open ai api key here'
 
 agent = create_csv_agent(
     ChatOpenAI(temperature=0.9, model="gpt-3.5-turbo-0125", max_tokens = 256),
-    r'C:\Users\Usuario\Desktop\masters\Advanced topics deep learning\final paper\letter_position_wordle.csv',
+    r'path.csv',
     verbose=True,
     agent_type=AgentType.OPENAI_FUNCTIONS,
 )
